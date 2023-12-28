@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  background: #020202;
+  cursor: crosshair;
+}
+canvas{display:block}
+div {
+  top: 20%;
+  text-align: center;
+  color: #fff;
+  font-family: "Source Sans Pro";
+  font-size: 5em;
+  font-weight: 100px;
+  -webkit-user-select: none;
+  user-select: none;
+}
